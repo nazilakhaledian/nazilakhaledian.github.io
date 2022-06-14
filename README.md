@@ -34,6 +34,8 @@ Also be sure to check out other [Free & Open Source Gatsby Themes](https://theme
 - react-spring Parallax Effect
 - CSS Animations on Shapes
 
+![- Image not loaded](https://assets.coderrocketfuel.com/markdown-course-images-elements-example.jpg "Title for the image.")
+
 ## 🚀 Getting Started
 
 [<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/LekoArts/gatsby-starter-portfolio-cara)
