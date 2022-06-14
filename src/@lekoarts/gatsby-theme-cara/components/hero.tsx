@@ -43,7 +43,7 @@ const Hero = ({ offset, factor = 1 }: { offset: number; factor?: number }) => (
 
         <div style={{display:"grid", gridTemplateColumns: "1fr 1fr"}}>
           <div><Intro /></div>
-          <div><img src="/banner.png" style={{maxWidth: "100%"}}></img></div>
+          <div><img src="/banner-2.png" style={{maxWidth: "100%"}}></img></div>
         </div>
         
       </Inner>
